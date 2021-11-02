@@ -6,8 +6,8 @@
 - Webブラウザを利用できる
 
 ## 環境
-- [BusyBox](https://busybox.net/)
-- [**v86 Virtualizer**](https://copy.sh/v86/), [Buildroot Linux](https://buildroot.org/)
+- BusyBox
+- [**v86 Virtualizer**](https://copy.sh/v86/), Buildroot Linux
 
 ## 環境構築
 
