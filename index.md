@@ -1,4 +1,4 @@
 # Learning Docs
 
 ## Languages
-- [Japanese/日本語](ja-jp)
+- [Japanese/日本語](ja)
