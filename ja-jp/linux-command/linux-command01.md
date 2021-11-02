@@ -16,7 +16,8 @@
 1. [v86 Buildroot Demo](https://copy.sh/v86/?profile=buildroot)にアクセスする
 1. (必要に応じて) `Load State`ボタンから保存した環境を呼び出す
 
-コピーペーストやログ確認の観点から、今回は画面下に存在するシリアルウィンドウにコマンドを書き込んでいく。
+![v86_serial_console](https://user-images.githubusercontent.com/26180919/139853332-3402a328-b9df-4519-ac51-369ebadf2136.jpeg)
+コピーペーストやログ確認の観点から、今回は赤枠で囲まれているシリアルコンソールにコマンドを打ち込む。
 
 ## データを引き継ぐ
 1. `Save State`ボタンを押す
