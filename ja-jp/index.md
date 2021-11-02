@@ -2,7 +2,7 @@
 
 ## コマンド
 - [Windows/DOS コマンド](windows-cmd)
-- Linux コマンド (準備中)
+- [Linux コマンド](linux-command)
 
 ## コンテンツ
 - [学習ツリー](tree)
