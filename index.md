@@ -1,3 +1,4 @@
 # Learning Docs
 
-- [Windows/DOS コマンド](windows-cmd)
+## Languages
+- [Japanese/日本語](ja-jp)
