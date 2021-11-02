@@ -1,4 +1,4 @@
-# Learning Docs
+# Learning Docs (Japanese)
 
 ## OS
 - [Windows/DOS](windows-dos)
