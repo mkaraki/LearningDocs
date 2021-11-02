@@ -1,13 +1,14 @@
 # 学習ツリー
 <pre>
+<!-- For Editors: Do not use extension in a[link]. -->
 [<a href="index">Learning Docs (Japanese)</a>]
 ├───[<a href="windows-dos">Windows/DOS</a>]
-│   └───<a href="windows-dos/dos-command01.md">Windows/DOSコマンド 基礎</a>
-│       └───<a href="windows-dos/windows-command01.md">Windowsコマンド 基礎</a>
+│   └───<a href="windows-dos/dos-command01">Windows/DOSコマンド 基礎</a>
+│       └───<a href="windows-dos/windows-command01">Windowsコマンド 基礎</a>
 ├───[<a href="linux">Linux</a>]
-│   └───<a href="linux/linux-command01.md">Linuxコマンド 基礎</a>
+│   └───<a href="linux/linux-command01">Linuxコマンド 基礎</a>
 └───[<a href="relational-database">リレーショナルデータベース</a>]
-    └───<a href="relational-database/sql01.md">SQLを書いてみよう</a>
+    └───<a href="relational-database/sql01">SQLを書いてみよう</a>
 </pre>
 
 ## 読み方
