@@ -6,7 +6,8 @@
 │   └───<a href="windows-dos/dos-command01">Windows/DOSコマンド 基礎</a>
 │       └───<a href="windows-dos/windows-command01">Windowsコマンド 基礎</a>
 ├───[<a href="linux">Linux</a>]
-│   └───<a href="linux/linux-command01">Linuxコマンド 基礎</a>
+│   ├───<a href="linux/linux-command01">Linuxコマンド 基礎</a>
+│   └───<a href="linux/crontab-read01">crontabの時間を読んでみよう</a>
 └───[<a href="relational-database">リレーショナルデータベース</a>]
     └───<a href="relational-database/sql01">SQLを書いてみよう</a>
 </pre>
