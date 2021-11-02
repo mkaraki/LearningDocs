@@ -1,6 +1,10 @@
 name: Check Markdown links
 
-on: [push, pull_request]
+on: 
+  push:
+  pull_request:
+  schedule:
+    - cron: '24 23 15 * *'
 
 jobs:
   markdown-link-check:
