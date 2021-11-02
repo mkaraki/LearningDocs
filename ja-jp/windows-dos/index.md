@@ -1,7 +1,5 @@
-# Windows/DOS コマンド
+# Windows/DOS
 
-## Windows/DOSコマンド
+## コマンド
 - [Windows/DOSコマンド 基礎](dos-command01)
-
-## Windowsコマンド
 - [Windowsコマンド 基礎](windows-command01)

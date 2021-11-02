@@ -1,8 +1,8 @@
 # Learning Docs
 
-## コマンド
-- [Windows/DOS コマンド](windows-cmd)
-- [Linux コマンド](linux-command)
+## OS
+- [Windows/DOS](windows-dos)
+- [Linux](linux)
 
 ## データベース
 - [リレーショナルデータベース](relational-database)
