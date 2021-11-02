@@ -1,4 +1,4 @@
 # Linux
 
 ## コマンド
-- [Linuxコマンド 基礎](linux-command01)
+- [Linuxコマンド 基礎](linux-command01.md)

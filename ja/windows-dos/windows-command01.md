@@ -1,14 +1,14 @@
 # Windowsコマンド 基礎
 
 ## 対象者
-- [Windows/DOSコマンド 基礎](dos-command01)を理解している
+- [Windows/DOSコマンド 基礎](dos-command01.md)を理解している
 
 ## 環境
 - Windows 10以降のWindows
 
 ## 環境構築
 
-**警告:** [Windows/DOSコマンド 基礎](dos-command01)と違い、ローカルのコンピュータ上で作業を行うため、
+**警告:** [Windows/DOSコマンド 基礎](dos-command01.md)と違い、ローカルのコンピュータ上で作業を行うため、
 間違ったコマンドを実行するとデータの喪失につながる。
 
 1. `Windows`キーを押しながら`R`キーを押し、`名前を指定して実行`を起動する

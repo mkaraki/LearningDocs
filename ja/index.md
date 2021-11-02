@@ -8,4 +8,4 @@
 - [リレーショナルデータベース](relational-database)
 
 ## コンテンツ
-- [学習ツリー](tree)
+- [学習ツリー](tree.md)
