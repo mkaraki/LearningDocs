@@ -21,6 +21,12 @@ jobs:
         id: publish-document
         with:
           sources: '**/*.md'
+      - name: Upload Document
+        uses: actions/upload-artifact@v2
+        id: upload-document
+        with:
+          name: 'document.pdf'
+          path: ${{ steps.publish-document.outputs.pdf }}
       - if: github.event_name == 'release' && github.event.action == 'published'
         name: Get Release
         id: release
