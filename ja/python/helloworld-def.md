@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Hello World、関数定義
 ---
-# Hello World、関数定義
 
 ## 対象者
 - マウス・キーボードを利用できる

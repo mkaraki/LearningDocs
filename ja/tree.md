@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: 学習ツリー
 ---
-# 学習ツリー
 <pre>
 <!-- For Editors: Do not use extension in a[link]. -->
 [<a href="index">Learning Docs (Japanese)</a>]

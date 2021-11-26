@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Linux
 ---
-# Linux
 
 ## コマンド
 - [Linuxコマンド 基礎](linux-command01.md)

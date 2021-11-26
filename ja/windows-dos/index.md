@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Windows/DOS
 ---
-# Windows/DOS
 
 ## コマンド
 - [Windows/DOSコマンド 基礎](dos-command01.md)

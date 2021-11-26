@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Python
 ---
-# Python
 
 [Python Programming Language](https://www.python.org/)は[Python Software Foundation](https://www.python.org/psf-landing/)が開発・管理を行っているプログラミング言語です。
 

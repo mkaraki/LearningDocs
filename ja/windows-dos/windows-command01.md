@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Windowsコマンド 基礎
 ---
-# Windowsコマンド 基礎
 
 ## 対象者
 - [Windows/DOSコマンド 基礎](dos-command01.md)を理解している

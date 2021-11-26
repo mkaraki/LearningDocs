@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Windows/DOSコマンド 基礎
 ---
-# Windows/DOSコマンド 基礎
 
 ## 対象者
 - Windowsの基本的な用語（ファイル、フォルダ、ディレクトリなど）を知っている
