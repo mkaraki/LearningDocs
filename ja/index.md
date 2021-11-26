@@ -4,6 +4,9 @@
 - [Windows/DOS](windows-dos)
 - [Linux](linux)
 
+## プログラミング言語
+- [Python](python)
+
 ## データベース
 - [リレーショナルデータベース](relational-database)
 

@@ -5,6 +5,8 @@
 ├───[<a href="windows-dos">Windows/DOS</a>]
 │   └───<a href="windows-dos/dos-command01">Windows/DOSコマンド 基礎</a>
 │       └───<a href="windows-dos/windows-command01">Windowsコマンド 基礎</a>
+├───[<a href="python">Python</a>]
+│   └───<a href="python/helloworld-def">Hello World、関数定義</a>
 ├───[<a href="linux">Linux</a>]
 │   ├───<a href="linux/linux-command01">Linuxコマンド 基礎</a>
 │   └───<a href="linux/crontab-read01">crontabの時間を読んでみよう</a>
