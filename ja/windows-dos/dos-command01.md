@@ -1,3 +1,6 @@
+---
+lang: ja
+---
 # Windows/DOSコマンド 基礎
 
 ## 対象者

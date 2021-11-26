@@ -1,3 +1,6 @@
+---
+lang: ja
+---
 # Hello World、関数定義
 
 ## 対象者

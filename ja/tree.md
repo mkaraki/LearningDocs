@@ -1,3 +1,6 @@
+---
+lang: ja
+---
 # 学習ツリー
 <pre>
 <!-- For Editors: Do not use extension in a[link]. -->
