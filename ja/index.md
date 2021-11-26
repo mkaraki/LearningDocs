@@ -1,7 +1,7 @@
 ---
 lang: ja
+title: Learning Docs (Japanese)
 ---
-# Learning Docs (Japanese)
 
 ## OS
 - [Windows/DOS](windows-dos)
